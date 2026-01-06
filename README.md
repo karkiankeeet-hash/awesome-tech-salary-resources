@@ -22,12 +22,12 @@ A curated list of tools, guides, and data sources for tech professionals who wan
 
 ## ☁️ Skills & Certifications (High ROI)
 *   [Cloud Resume Challenge](https://cloudresumechallenge.dev/) - Project-based learning for AWS/Azure.
-*   [The 4 Cloud Certs That Actually Pay](https://leonstaff.com/blogs/the-only-4-cloud-certifications-that-actually-boost-your-salary-in-2026-and-3-that-are-useless/) - No-fluff analysis of certification ROI.
+*   [The 4 Cloud Certs That Actually Pay](https://leonstaff.com/blogs/top-certifications-2026-tech-security/) - No-fluff analysis of certification ROI.
 *   [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - The definitive K8s tutorial.
 
 ## ⚠️ "Trap" Detection (Red Flags)
-*   [Quiet Firing Signs](https://leonstaff.com/blogs/is-your-boss-quiet-firing-you-5-signs-you-need-to-leave-now/) - How to spot when you're being managed out.
-*   [The Unlimited PTO Scam](https://leonstaff.com/blogs/unlimited-pto-scam-2026/) - Why "unlimited" usually means "zero."
+*   [Quiet Firing Signs](https://leonstaff.com/blogs/quiet-firing-signs-constructive-discharge/) - How to spot when you're being managed out.
+*   [The Unlimited PTO Scam](https://leonstaff.com/blogs/unlimited-pto-scam-explained-2025/) - Why "unlimited" usually means "zero."
 *   [The RTO Real Estate Trap](https://leonstaff.com/blogs/the-real-reason-ceos-want-you-back-in-the-office-its-not-collaboration/) - The financial incentives behind Return-to-Office mandates.
 
 ## Contributing
